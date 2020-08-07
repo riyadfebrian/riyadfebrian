@@ -46,6 +46,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bermanfaat di Twitter dengan menjadi Twitter Developer](https://medium.com/@riyadfebrian/bermanfaat-di-twitter-dengan-menjadi-twitter-developer-fedc72b1f8a5?source=rss-19f2d4d09bff------2)
 <!-- BLOG-POST-LIST:END -->
 
 
