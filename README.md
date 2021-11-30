@@ -16,17 +16,6 @@
 
 <br />
 
-### Tools :
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png" />][Jupyter Notebook]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/blob/master/topics/unity/unity.png" />][Unity]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png" />][Docker]
-
-<br />
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Bermanfaat di Twitter dengan menjadi Twitter Developer](https://medium.com/@riyadfebrian/bermanfaat-di-twitter-dengan-menjadi-twitter-developer-fedc72b1f8a5?source=rss-19f2d4d09bff------2)
