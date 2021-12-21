@@ -1,4 +1,4 @@
-### Hello :) I'm Riyad Febrian a.k.a Febri 👋
+### Hello :) I'm Riyad Febrian a.k.a レイ (Rey) 👋
 
 ## I'm an Ex-Developer move to AI!
 - 🔭 I’m currently focussing my work on a Machine Learning and Deep Learning !
