@@ -1,9 +1,10 @@
 ### Hello :) I'm Riyad Febrian a.k.a レイ (Rey) 👋
 
 ## I'm an Ex-Developer move to AI!
+
 - 🔭 I’m currently focussing my work on a Machine Learning and Deep Learning !
-- 🌱 I’m still learning to master Mathematics behind Machine Learning 🤣
-- 🥅 2021 Goals: Finishing my Reinforcement Learning Projects
+- 🌱 AI's Getting Wild and probably it will replace us 🤣
+- 🥅 2024 Goals: Building High Performance Apps with Automation and AI Feature
 - ⚡ Fun fact: I love to code with a cat
 
 ### Connect with me:
@@ -17,24 +18,20 @@
 <br />
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:START
 - [Bermanfaat di Twitter dengan menjadi Twitter Developer](https://medium.com/@riyadfebrian/bermanfaat-di-twitter-dengan-menjadi-twitter-developer-fedc72b1f8a5?source=rss-19f2d4d09bff------2)
 <!-- BLOG-POST-LIST:END -->
-
 
 <br />
 
 ---
-
-
-
 
 [website]: https://riyadfebrian.com
 [twitter]: https://twitter.com/riyadfebrian
 [youtube]: https://youtube.com/riyadfebrian
 [instagram]: https://instagram.com/riyadfebrian
 [linkedin]: https://linkedin.com/in/riyadfebrian
-
 [Python]: https://www.python.org
 [Html]: https://html5test.com/
 [CSS3]: https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/
@@ -46,10 +43,6 @@
 [NodeJS]: https://nodejs.org/en/
 [Postgre]: https://www.postgresql.org/
 [MongoDB]: https://www.mongodb.com/
-
-
-
-
 [Pycharm]: https://www.jetbrains.com/pycharm/
 [VSCode]: https://code.visualstudio.com/
 [Jupyter Notebook]: https://jupyter.org/
